@@ -1,0 +1,10 @@
+{
+  "name": "greenpeace-app",
+  "version": "0.0.0",
+  "description": "",
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FxBresson/greenpeace-app"
+  }
+}
